@@ -1,0 +1,20 @@
+{
+  "name": "example-vite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ludooo2204 <vachon.ludovic@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.3.7"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "three": "^0.129.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  }
+}
