@@ -3,6 +3,11 @@
     padding: 0;
     height: 100vh;
 }
+body{
+    /* background-color: #1a8fcf; */
+    background-image: linear-gradient(#e2e4e5,#9e9a9c,#616262);
+
+}
 .container{
     position: fixed;
     top:20%;
@@ -20,5 +25,5 @@ h1{
     letter-spacing: 3px;
 }
 h2{
-    color:#b8b3b3
+    color:#050505
 }
